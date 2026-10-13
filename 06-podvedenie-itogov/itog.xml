@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio discipline="XML технологии">
+  <checkpoint number="1" title="DTD" folder="../01-kt-dtd"/>
+  <checkpoint number="2" title="XML Schema" folder="../02-kt-schema"/>
+  <checkpoint number="3" title="Оптимизация" folder="../03-kt-optimization"/>
+  <checkpoint number="4" title="Группировка" folder="../04-kt-grouping"/>
+  <checkpoint number="5" title="Практикум" folder="../05-kt-practicum"/>
+  <score>
+    <checkpointPoints>45</checkpointPoints>
+    <finalTask>
+      <checkpointSumBonus>45</checkpointSumBonus>
+      <passedCheckpointBonus>10</passedCheckpointBonus>
+      <points>55</points>
+    </finalTask>
+    <courseTotal>100</courseTotal>
+  </score>
+</portfolio>

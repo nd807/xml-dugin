@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+  <complexes>
+    <complex code="kurskaya">
+      <name>Курская</name>
+      <address>Костомаровский переулок, дом 3</address>
+    </complex>
+    <complex code="vdnh">
+      <name>ВДНХ Техноград</name>
+      <address>Проспект Мира, дом 119</address>
+    </complex>
+  </complexes>
+  <lessons>
+    <lesson no="1" complex="kurskaya">
+      <date>2026-02-02</date>
+      <time>10:00</time>
+    </lesson>
+    <lesson no="2" complex="vdnh">
+      <date>2026-02-05</date>
+      <time>15:30</time>
+    </lesson>
+  </lessons>
+</timeTable>
